@@ -8,5 +8,5 @@ Does the failure indicate poor initial testing? Explain.
 
 Answers
 1. The Pesticide Paradox explains this; existing tests did not expose new defects introduced by change.
-2. Regression Testing could be helpful in this scenario
+2. Regression Testing could be helpful in this scenario as it tests targeted changes and functionality.
 3. No it does not indicate poor testing. Even well-tested software can fail
