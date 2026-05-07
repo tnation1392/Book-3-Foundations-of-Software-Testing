@@ -1,0 +1,11 @@
+A banking application passes all planned tests, but business stakeholders still decide to delay release because they lack confidence in the system.
+Questions:
+
+What testing objective relates directly to stakeholder confidence?
+Why might passing tests not be sufficient to build trust?
+What additional testing-related actions could help improve confidence?
+
+Answers:
+1. A relevant testing objective would help with stakeholder confidence
+2. Continuous testing may not cover business risks or real-world use
+3. Test reporting and stakeholder involvement may help.
