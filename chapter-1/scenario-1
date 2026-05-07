@@ -1,0 +1,12 @@
+Scenario 1: “It Worked Yesterday”
+A web application worked correctly during system testing. After a small UI change was deployed, users report that submitting a form intermittently fails.
+Questions:
+
+Which testing principle explains why this defect was not previously detected?
+What type of testing activity could help prevent similar issues in the future?
+Does the failure indicate poor initial testing? Explain.
+
+Answers
+1. The Pesticide Paradox explains this; existing tests did not expose new defects introduced by change.
+2. Regression Testing could be helpful in this scenario
+3. No it does not indicate poor testing. Even well-tested software can fail
