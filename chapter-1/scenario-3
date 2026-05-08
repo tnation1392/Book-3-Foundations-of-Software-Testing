@@ -1,0 +1,11 @@
+A tester executes a large number of test cases and reports that no defects were found.
+Questions:
+
+Does this mean the system has no defects? Why or why not?
+Which fundamental testing principle applies here?
+What risks remain despite finding no defects?
+
+Answers:
+1. No the absence of detected defects does not mean there aren't any
+2. See above
+3. Remaining risks would include untested paths, unknown usage patterns
